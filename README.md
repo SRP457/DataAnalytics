@@ -19,4 +19,6 @@ We make use of various models such as Linear Regression, Ridge Regression, Decis
 3. Using the top 20 correlated features
 
 # Results
-
+![](https://github.com/SRP457/DataAnalytics/blob/main/table1.png?raw=true)   ![](https://github.com/SRP457/DataAnalytics/blob/main/table2.png?raw=true)
+![](https://github.com/SRP457/DataAnalytics/blob/main/table3.png?raw=true)   
+![](https://github.com/SRP457/DataAnalytics/blob/main/figure1.png?raw=true)
